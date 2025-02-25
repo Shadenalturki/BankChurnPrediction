@@ -46,7 +46,6 @@ Scikit-Learn (Logistic Regression, SVM)
 TensorFlow & Keras (Deep Neural Networks)
 
 Pandas & NumPy (Data Processing)
-
 Matplotlib & Seaborn (Visualization)
 
 
