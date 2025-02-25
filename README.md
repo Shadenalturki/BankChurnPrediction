@@ -23,11 +23,6 @@ Deep Neural Networks (DNN)
 
 • Comparison of Models – Highlighting strengths and weaknesses of different classifiers.
 
-Dataset
-Source: Kaggle
-Features: 14 attributes including age, credit score, tenure, balance, product usage, and activity status.
-Target: Exited (1) or Not Exited (0)
-
 ## Methodology
 • Feature Selection – Removing irrelevant columns and selecting significant predictors.
 
@@ -40,17 +35,15 @@ Target: Exited (1) or Not Exited (0)
 • Evaluation – Comparing models based on recall, precision, and F1-score.
 
 ## Technologies Used
-
 Scikit-Learn (Logistic Regression, SVM)
 
 TensorFlow & Keras (Deep Neural Networks)
 
 Pandas & NumPy (Data Processing)
+
 Matplotlib & Seaborn (Visualization)
 
-
 ## Contributors:
-
 Shaden Alturki
 
 Athbah Alaliwei
