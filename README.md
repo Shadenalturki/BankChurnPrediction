@@ -2,6 +2,8 @@
 ## Project Overview
 This project explores customer churn prediction in the banking industry using machine learning techniques. The dataset contains customer demographic details, transaction history, and account activity. Our goal is to develop a model that accurately predicts whether a customer is likely to leave the bank, enabling better customer retention strategies.
 
+Dataset source: https://www.kaggle.com/datasets/shubhammeshram579/bank-customer-churn-prediction
+
 The study compares three models:
 
 Logistic Regression (LR)
