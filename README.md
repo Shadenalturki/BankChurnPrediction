@@ -30,9 +30,13 @@ Target: Exited (1) or Not Exited (0)
 
 ## Methodology
 • Feature Selection – Removing irrelevant columns and selecting significant predictors.
+
 • Data Transformation – One-hot encoding categorical variables (e.g., Geography, Gender).
+
 • Model Training – Training LR, SVM, and DNN on an 80-20 train-test split.
+
 • Hyperparameter Tuning – Using GridSearchCV and Principal Component Analysis (PCA) to improve accuracy.
+
 • Evaluation – Comparing models based on recall, precision, and F1-score.
 
 ## Technologies Used
