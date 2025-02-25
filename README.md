@@ -4,14 +4,6 @@ This project focuses on **predicting customer churn in the banking industry** by
 
 Dataset source: https://www.kaggle.com/datasets/shubhammeshram579/bank-customer-churn-prediction
 
-The study compares three models:
-
-Logistic Regression (LR)
-
-Support Vector Machines (SVM)
-
-Deep Neural Networks (DNN)
-
 ## Key Features
 • **Data Preprocessing & Cleaning** – Removing missing values, encoding categorical data, and normalizing features.  
 • **Feature Selection** – Identifying the most significant attributes affecting customer churn.  
